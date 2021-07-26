@@ -1,0 +1,58 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: arial;
+}
+body{
+	height: 375px;
+	background-image: url(../img/sundarban_long.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	background-size: 100% auto;
+	
+}
+.pipilika-body{
+	width: 760px;
+	/* border: 2px solid black; */
+	margin:250px auto 0px;
+}
+.pipilika-body .pipilika-search {
+	
+}
+.pipilika-body .pipilika-search >img {
+	width: 250px;
+	display:block;
+	margin: auto;
+}
+.pipilika-body .pipilika-search
+.pipilika-input{
+	margin-top: 20px;
+}
+.pipilika-body .pipilika-search
+.pipilika-input input{
+	width: 88%;
+	padding: 10px 10px;
+	float: left;
+	border-radius: 6px 0px 0px 6px;
+	border-right: none;
+	/* border-color: #DEDEDE; */
+}
+.pipilika-body .pipilika-search
+.pipilika-input button{
+	
+	padding: 10px 10px;
+	background: #A0D468;
+	border-radius: 0px 6px 6px 0px;
+}
+.pipilika-body .pipilika-search .pipilika-content{
+	text-align: center;
+	margin-top: 20px;
+	
+}
+.pipilika-body .pipilika-search .pipilika-content img{
+	width: 60px;
+	margin: 10px 20px;
+	
+}
+
+
